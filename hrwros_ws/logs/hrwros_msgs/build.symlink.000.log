@@ -5,6 +5,7 @@ Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayResult.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayFeedback.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.lisp
+Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/BoxHeightInformation.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayAction.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayGoal.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayActionGoal.lisp
@@ -15,6 +16,7 @@ Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionGoal.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_TargetToolPoses.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayActionFeedback.lisp
+Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_BoxHeightInformation.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/_package_CounterWithDelayGoal.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/CounterWithDelayFeedback.lisp
 Symlinking /home/annet/ros/hrwros_ws/devel/share/common-lisp/ros/hrwros_msgs/msg/hrwros_msgs-msg.asd
@@ -47,6 +49,7 @@ Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/R
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/_index.js
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.js
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/TargetToolPoses.js
+Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/BoxHeightInformation.js
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayActionResult.js
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/ObjectDetection.js
 Symlinking /home/annet/ros/hrwros_ws/devel/share/gennodejs/ros/hrwros_msgs/msg/CounterWithDelayFeedback.js
@@ -58,6 +61,7 @@ Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/Coun
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/TargetToolPoses.l
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/RobotTrajectories.l
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayAction.l
+Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/BoxHeightInformation.l
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionResult.l
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/SensorInformation.l
 Symlinking /home/annet/ros/hrwros_ws/devel/share/roseus/ros/hrwros_msgs/msg/CounterWithDelayActionFeedback.l
@@ -70,6 +74,7 @@ Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_ms
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_TargetToolPoses.py
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionResult.py
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayFeedback.py
+Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_BoxHeightInformation.py
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayActionFeedback.py
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_CounterWithDelayAction.py
 Symlinking /home/annet/ros/hrwros_ws/devel/lib/python2.7/dist-packages/hrwros_msgs/msg/_ObjectDetection.py
@@ -93,5 +98,6 @@ Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/SensorInformation
 Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayAction.h
 Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetResponse.h
 Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/CounterWithDelayGoal.h
+Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/BoxHeightInformation.h
 Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/RobotTrajectories.h
 Symlinking /home/annet/ros/hrwros_ws/devel/include/hrwros_msgs/ConvertMetresToFeetRequest.h
