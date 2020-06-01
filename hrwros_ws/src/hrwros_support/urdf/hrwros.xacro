@@ -59,4 +59,29 @@
     <origin xyz="-8.0 -2.2 0.0" rpy="0 0 0" />
   </joint>
 
+  <link name="robot2_pedestal_link">
+   <visual>
+   <origin xyz="0 0 0.3" />
+    <geometry>
+     <box size="0.3 0.3 0.6" />
+    </geometry>
+    <material name="robot2_pedestal_colour">
+     <color rgba="0 0.16 0.53 1"/>
+     </material>
+   </visual>
+  </link>
+
+  <joint name="robot2_pedestal_joint" type="fixed">
+   <parent link="world" />
+   <child link="robot2_pedestal_link" />
+   <origin xyz="-7.8 -1.5 0"/>
+  </joint>
+
+<xacro:include filename="$(find ur_description)/urdf/ur5.urdf.xacro"/>
+<xacro:ur5_robot prefix="robot2_" joint_limited="true"/>
+<joint name="robot2-robot2_pedestal_joint" type="fixed">
+ <parent link="robot2_pedestal_link"/>
+ <child link="robot2_base_link"/>
+ <origin xyz="0 0 0.6" rpy="0 0 ${radians(90)}"/>
+</joint>
 </robot>
