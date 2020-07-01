@@ -41,7 +41,8 @@ import tf2_ros
 import tf2_geometry_msgs
 import geometry_msgs
 
-
+tf_buffer = tf2_ros.Buffer()
+tf_listener = tf2_ros.TransformListener(tf_buffer)
 
 def logical_camera_callback(data):
   # Check if the logical camera has seen our box which has the name 'object'.
